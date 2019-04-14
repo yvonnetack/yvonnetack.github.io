@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 22,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -78,7 +78,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-13-1920x1280.jpg",
             "parallax": true,
@@ -92,8 +92,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.5"
           },
-          "title": "<b>Hi, I am</b><br><b><br></b><b>&nbsp; &nbsp; &nbsp;Yvonne </b><b>Johnson</b>",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Freelance Web Developer <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Location: &nbsp;Pikeville Kentucky<br><br><br><br>",
+          "title": "<b>Hi, I am</b><br><b>Yvonne </b><b>Johnson</b>",
+          "text": "&nbsp;Freelance Web Developer <br>&nbsp;Location: &nbsp;Pikeville Kentucky<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#content4-g\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
           "alias": "purity/components",
           "_tags": [
