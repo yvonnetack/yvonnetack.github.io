@@ -1,0 +1,259 @@
+{
+  "settings": {
+    "name": "Yvonne Johnson Web Developer",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#f4deac",
+        "#fde3a5",
+        "#5694ca",
+        "#ccc6c6",
+        "#d9d6d6"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.5",
+    "siteFonts": [],
+    "uniqCompNum": 19,
+    "versionPublish": "4.9.5",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Yvonne Johnson, Front-end Web Developer",
+        "meta_descr": "Freelance web developer, Pikeville Kentucky.  Responsive web design for small business and personal sites . Created with HTML5, CSS3, Javascript, bootstrap and Wordpress.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Page!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "20px",
+              "text-align": "right",
+              "color": "#f1c050",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<b>Hi, I am</b><br><b><br></b><b>&nbsp; &nbsp; &nbsp;Yvonne </b><b>Johnson</b>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Freelance Web Developer <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Location: &nbsp;Pikeville Kentucky<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#content4-g\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-f",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "B": {
+              "font-size": "84px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "color": "#000000"
+            },
+            "H1": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1272.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b>about me</b><br>",
+          "caption1": "I am a freelance web developer specializing in front-end web development.<br><br>Coding is not a job to me, it is diving into the unknown and reaping satisfaction.<br><br>",
+          "title2": "<b>what I do</b>",
+          "caption2": "I create responsive websites that work on mobiles, tablets, desktops, or any other devices.<br><br>I create websites with self-written code, HTML5, CSS3, Javascript, Bootstrap and Wordpress.<br>",
+          "title3": "<b>what I do for you</b>",
+          "caption3": "I can create your website, set up your domain and hosting account and submit your website to search engines.<br><br>The sky is the limit!  Ask if I can do more for your business or personal website.<br>",
+          "title4": "<b>education</b><br>",
+          "caption4": "*HTML5 Specialist Certification<br>*Responsive Web Design Certification<br>*Computer Science/Business Management - Pikeville College<br>*Data Processing - Kentucky College of Business<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-g",
+          "_styles": {
+            "H4": {
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "22px",
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1272.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d9d6d6",
+            "overlay": true,
+            "overlayColor": "#bfc7d6",
+            "overlayOpacity": "0.9"
+          },
+          "title": "<b>Request Information</b>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact &nbsp;Me</a>",
+          "form": {
+            "action": "yvonnetack@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-section-title B": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Yvonne Johnson | Freelance Web Developer&nbsp;",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
