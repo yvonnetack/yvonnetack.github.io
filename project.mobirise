@@ -17,10 +17,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/yj-128x128-3.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
@@ -30,7 +30,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Yvonne Johnson, Front-end Web Developer",
+        "title": "Yvonne Johnson, Front-End Web Developer",
         "meta_descr": "Freelance web developer, Pikeville Kentucky.  Responsive web design for small business and personal sites . Created with HTML5, CSS3, Javascript, bootstrap and Wordpress.",
         "header_custom": "",
         "footer_custom": "",
@@ -80,7 +80,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -90,11 +90,11 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "title": "<b>Hi, I am</b><br><b>Yvonne </b><b>Johnson</b>",
-          "text": "&nbsp;Freelance Web Developer <br>&nbsp;Location: &nbsp;Pikeville Kentucky<br><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#content4-g\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
+          "text": "Freelance Web Developer <br>Pikeville Kentucky<br><br>“Don’t let the noise of other’s’ opinions drown out your own inner voice.” – Steve Jobs<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#content5-n\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Hire Me/Request Info</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -122,6 +122,44 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "The Customer Is Always Right",
+          "caption": "<p>It's your website, let's design it together. You deside on the layout, the colors, how many pages and much more.</p><p>Together, we will create and build something beautiful!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "32px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitles": true,
             "showCaptions": true,
             "paddingTop": "2",
@@ -141,7 +179,7 @@
             "overlayOpacity": 0.5
           },
           "title1": "<b>about me</b><br>",
-          "caption1": "I am a freelance web developer specializing in front-end web development.<br><br>Coding is not a job to me, it is diving into the unknown and reaping satisfaction.<br><br>",
+          "caption1": "I am a freelance web developer specializing in front-end web development.<br><br>Coding is not a job to me, it is diving into the unknown and acquiring satisfaction.<br><br>",
           "title2": "<b>what I do</b>",
           "caption2": "I create responsive websites that work on mobiles, tablets, desktops, or any other devices.<br><br>I create websites with self-written code, HTML5, CSS3, Javascript, Bootstrap and Wordpress.<br>",
           "title3": "<b>what I do for you</b>",
@@ -182,7 +220,7 @@
             "overlayColor": "#bfc7d6",
             "overlayOpacity": "0.9"
           },
-          "title": "<b>Request Information</b>",
+          "title": "<b>Hire Me/Request Information</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact &nbsp;Me</a>",
           "form": {
             "action": "yvonnetack@gmail.com",

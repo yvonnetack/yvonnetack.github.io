@@ -24,6 +24,66 @@
 #header2-f H1 {
   text-align: left;
 }
+#content5-n .mbr-section-title {
+  text-align: center;
+  font-size: 32px;
+}
+#content5-n P {
+  text-align: center;
+  font-size: 22px;
+}
+#content4-g H4 {
+  font-size: 20px;
+}
+#content4-g P {
+  font-size: 22px;
+  text-align: left;
+  color: #000000;
+}
+#content4-g B {
+  font-size: 18px;
+}
+#form1-7 .mbr-section-title {
+  color: #000000;
+  font-size: 30px;
+}
+#form1-7 .mbr-section-title B {
+  color: #000000;
+}
+#footer1-8 P {
+  color: #ffffff;
+}
+
+
+
+#social-buttons1-h .mbr-section-title {
+  font-size: 20px;
+  text-align: right;
+  color: #f1c050;
+  font-family: 'Indie Flower', cursive;
+}
+#header2-f P {
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  color: #000000;
+}
+#header2-f B {
+  font-size: 84px;
+  font-family: 'Playfair Display', sans-serif;
+  color: #000000;
+}
+#header2-f H1 {
+  text-align: left;
+}
+#content5-n .mbr-section-title {
+  text-align: center;
+  font-size: 32px;
+}
+#content5-n P {
+  text-align: center;
+  font-size: 22px;
+}
 #content4-g H4 {
   font-size: 20px;
 }
